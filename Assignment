@@ -18,4 +18,5 @@ current spreads from this website
 	http://www.footballlocks.com/nfl_point_spreads.shtml
 
 Go to the site above to see current spreads.
-Write a script called “nfl_spreads.py” that will load this URL, parse it using BeautifulSoup, and output the favorite, the underdog and the spread of a given game.
+Write a script called “nfl_spreads.py” that will load this URL, parse it using BeautifulSoup, and output the favorite, 
+the underdog and the spread of a given game.
